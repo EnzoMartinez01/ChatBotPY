@@ -279,6 +279,30 @@
     {
       "texto": "y si?",
       "respuesta": "si"
+    },
+    {
+      "texto": "choco",
+      "respuesta": "choco"
+    },
+    {
+      "texto": "choco o vaini",
+      "respuesta": "choco"
+    },
+    {
+      "texto": "palta o aguacate?",
+      "respuesta": "null"
+    },
+    {
+      "texto": "Con chispas",
+      "respuesta": "null"
+    },
+    {
+      "texto": "Pc",
+      "respuesta": "Pc"
+    },
+    {
+      "texto": "palta?",
+      "respuesta": "si"
     }
   ]
 }
