@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, jsonify
 import json
 from difflib import get_close_matches
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 
 knowledge_base = json.load(open('knowledge_base.json', 'r', encoding='utf-8'))
 
