@@ -1,0 +1,284 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Dónde se ubica la sede principal del Instituto CERTUS?",
+      "respuesta": "La sede principal del Instituto CERTUS se encuentra en Surco - Lima, Perú."
+    },
+    {
+      "texto": "¿Cuántas sedes tiene CERTUS en total?",
+      "respuesta": "CERTUS tenía 8 sedes en diferentes ciudades de Perú, incluyendo Lima, Arequipa y Chiclayo."
+    },
+    {
+      "texto": "¿Cuáles son las carreras más populares ofrecidas por CERTUS?",
+      "respuesta": "Las carreras más populares son de negocios: Administración de Empresas, Administración de Negocios Internacionales, etc."
+    },
+    {
+      "texto": "¿Ofrecen programas de formación en línea?",
+      "respuesta": "Sí, ofrece programas en modalidad presencial y en línea (virtual)."
+    },
+    {
+      "texto": "¿Cuál es el horario de atención general de CERTUS?",
+      "respuesta": "El horario de atención puede variar según la sede y el campus, pero un horario general es de Lunes a Sábado de 9:00 a.m a 6:00 p.m."
+    },
+    {
+      "texto": "¿Tienen programas de becas disponibles?",
+      "respuesta": "Cada año, Certus abre convocatoria para las Becas Avanza."
+    },
+    {
+      "texto": "¿Cuál es la duración típica de sus programas académicos?",
+      "respuesta": "La duración de los programas académicos varía según la carrera y el nivel de estudio. Normalmente 3 años."
+    },
+    {
+      "texto": "¿Puedes mencionar algunas de las áreas de estudio en las que se especializa CERTUS?",
+      "respuesta": "CERTUS se especializa en formación en áreas demandadas en el mercado laboral, que son Negocios, Finanzas, Tecnología y Creatividad."
+    },
+    {
+      "texto": "¿Qué servicios de apoyo ofrecen a los estudiantes, como orientación académica o profesional?",
+      "respuesta": "Ofrece asesoría en la búsqueda laboral, talleres, charlas, ferias laborales y ofertas laborales."
+    },
+    {
+      "texto": "¿CERTUS tiene convenios con empresas para prácticas profesionales?",
+      "respuesta": "CERTUS tiene convenios con empresas para prácticas profesionales, como: Caja Trujillo, Ripley, Falabella, etc."
+    },
+    {
+      "texto": "¿Ofrecen programas de posgrado o maestrías?",
+      "respuesta": "Al ser Instituto Superior, ofrece grado académico de Bachiller, pero también faculta para seguir estudios de posgrado como maestrías y doctorado."
+    },
+    {
+      "texto": "¿Qué tipo de instalaciones y recursos tienen en sus campus?",
+      "respuesta": "Las instalaciones poseen ambientes cómodos, bibliotecas, laboratorios, cafeterías, áreas sociales, wifi y mucho más."
+    },
+    {
+      "texto": "¿Hay requisitos específicos para la admisión a CERTUS?",
+      "respuesta": "Los requisitos son haber culminado la secundaria, hacer el primer pago de matrícula + Cuota 1."
+    },
+    {
+      "texto": "¿Existe un centro de empleo o bolsa de trabajo para graduados?",
+      "respuesta": "La bolsa de trabajo CERTUS garantiza la empleabilidad de los egresados."
+    },
+    {
+      "texto": "¿Cómo se diferencia CERTUS de otras instituciones educativas en Perú?",
+      "respuesta": "CERTUS se diferencia de otras instituciones por su oferta académica y enfoque en áreas específicas."
+    },
+    {
+      "texto": "¿Tienen programas de formación continua para profesionales en activo?",
+      "respuesta": "Los programas de formación continua pueden estar disponibles; verifica con CERTUS para obtener información actualizada."
+    },
+    {
+      "texto": "¿Qué métodos de enseñanza utilizan, como clases presenciales o en línea?",
+      "respuesta": "CERTUS puede ofrecer una variedad de métodos de enseñanza, incluyendo clases presenciales y en línea."
+    },
+    {
+      "texto": "¿Cuál es la visión o misión de CERTUS como institución educativa?",
+      "respuesta": "La visión y misión de CERTUS como institución educativa estarán disponibles en su sitio web."
+    },
+    {
+      "texto": "¿Cuál es el proceso de inscripción?",
+      "respuesta": "El proceso de inscripción es acercarse a sede y entregar documentos como copia de DNI, libreta de notas, voucher del pago de matrícula + cuota 1. Esperar la fecha indicada para inscribirse a los cursos."
+    },
+    {
+      "texto": "¿Tienen algún programa de intercambio estudiantil?",
+      "respuesta": "Intercambio de alumnos no, solo docentes."
+    },
+    {
+      "texto": "¿Qué servicios encuentras en el Portal Certus?",
+      "respuesta": "En el Portal Certus encontrarás los siguientes servicios: Bolsa de Trabajo, Correo Certus, Intranet, Campus Digital (antes Aula Virtual), Noticias y Biblioteca Virtual."
+    },
+    {
+      "texto": "¿Cómo accedes al Portal Certus?",
+      "respuesta": "1. Ingresa a www.certus.edu.pe\n2. Ubica la barra de Menú.\n3. Haz clic en Portal Certus.\n4. Coloca tu código de estudiante y contraseña. Si es docente, coloque su usuario Certus.\nTambién puedes ir directamente a través de https://intranet.certus.edu.pe"
+    },
+    {
+      "texto": "¿Al ingresar al Portal aparece un formulario de Actualización de datos personales. ¿Qué debes hacer?",
+      "respuesta": "A. Completa la información y/o datos que te solicitan pues sin esta información no podrás utilizar otras opciones del Portal o recuperar tu contraseña.\nB. Si ya actualizaste tus datos, confirma la información que colocaste.\nC. Para confirmar, mantén tu celular cerca pues te llegará un código de verificación para finalizar la actualización.\nD. Si no puedes registrar tus datos por algún inconveniente, escribe a Mesa de Ayuda (mesadeayuda@ieduca.pe) indicando tus datos nombre completo, número de DNI, código de estudiante, correo Certus y sede a la que perteneces y el detalle de lo ocurrido."
+    },
+    {
+      "texto": "¿Para qué sirve la opción Olvidé mi contraseña?",
+      "respuesta": "Para que cuando olvides tu contraseña, coloques una nueva. Sin embargo, solo podrás hacerlo desde tu correo personal registrado previamente. Por eso, es importante que tengas registrado el correo personal que más uses ya que a ese correo, recibirás un enlace para restablecer tu contraseña."
+    },
+    {
+      "texto": "¿La opción Olvidé mi contraseña es válida para toda la comunidad Certus (estudiantes, administrativos, egresados y docentes)?",
+      "respuesta": "Sí, está activo para toda nuestra comunidad."
+    },
+    {
+      "texto": "¿Los mensajes de restablecimiento de contraseña no llegan a tu correo personal registrado?",
+      "respuesta": "Verifica lo siguiente en tu correo:\n1. Puedes haber superado el límite de espacio de la cuenta de correo. Si es así, elimina la información que ya no necesites.\n2. Si tienes una bandeja de Spam o correos no deseados. El mensaje de recuperación puede encontrarse ahí.\n3. Si tu correo tiene filtros o bloqueos de correos activados. De ser así libéralos para recibir el mensaje.\n¿Persiste el inconveniente?\nDe ser así, actualiza nuevamente tus datos personales en el Área Académica de tu sede (estudiante) o Gestión del Talento Humano (docentes). Si eres docente, también puedes escribir al correo gestiondeltalentohumano@certus.edu.pe solicitando recuperar tu contraseña."
+    },
+    {
+      "texto": "¿Qué pasos debes seguir si no puedes ingresar a la opción Olvidé mi contraseña?",
+      "respuesta": "Envía un correo a Mesa de Ayuda (mesadeayuda@ieduca.pe) indicando si eres docente o estudiante con los siguientes datos: número de DNI, código del estudiante o nombre del docente, correo Certus y la sede a la que perteneces."
+    },
+    {
+      "texto": "¿El correo mesadeayuda@ieduca.pe seguirá habilitado para restablecer contraseñas?",
+      "respuesta": "No, a partir de la fecha solo podrás cambiar la contraseña a través del Portal Certus, utilizando la opción Olvidé mi contraseña. Esta opción estará habilitada las 24 horas del día."
+    },
+    {
+      "texto": "¿Qué servicios se encuentran en el enlace Bolsa de Trabajo? (aplica solo para estudiantes)",
+      "respuesta": "Bolsa de Trabajo te permite acceder a una plataforma virtual de empleos. Solo deberás cargar tu Curriculum Vitae a dicha plataforma y obtendrás acceso a distintas ofertas laborales, así como información de charlas y ferias laborales, procesos de selección y talleres de empleabilidad de tu sede."
+    },
+    {
+      "texto": "¿Aún no te registras en tu Bolsa de Trabajo Certus? (aplica solo para estudiantes)",
+      "respuesta": "Sigue estos pasos:\n1. Completa el formulario que aparecerá cuando ingreses a la página. Si luego de enviarlos, aparece un mensaje indicando que tu cuenta ya se encuentra registrada, escribe al correo bt@certus.edu.pe indicando el número de DNI, el código del estudiante y la captura de pantalla con la incidencia reportada.\n2. Contacta a Bolsa de Trabajo:\nBolsa de Trabajo y Desarrollo Profesional: (202 09 01) anexos 2586 – 2585– 2663. Horario de atención: de lunes a viernes de 9:00 a.m. a 6:00 p.m."
+    },
+    {
+      "texto": "¿Para ingresar a mi correo Certus debo colocar el usuario y contraseña nuevamente?",
+      "respuesta": "Sí, para acceder a servicio se debe colocar nuevamente el usuario/código y contraseña. Por seguridad, tras finalizar el uso del correo se debe cerrar sesión."
+    },
+    {
+      "texto": "¿Qué servicios puedes encontrar en el enlace Intranet?",
+      "respuesta": "Te permitirá acceder a tu información académica y realizar trámites virtuales. Si no puedes ingresar, comunícate con mesadeayuda@ieduca.pe."
+    },
+    {
+      "texto": "¿Qué servicios se encuentran en el Campus Digital (antes Aula Virtual)?",
+      "respuesta": "A través de Campus Digital (antes Aula Virtual), podrás descargar tu información académica, enviar trabajos y recibir calificaciones, así como también acceder a herramientas para organizar mejor los cursos en los cuales te encuentres inscrito como estudiante o docente. También facilita la comunicación entre el docente y la clase. En caso de que no te aparezcan los cursos, registra tu solicitud a través de tu Asistente Digital indicando el código del estudiante, nombres completos y el curso en mención. En caso sea docente, deberá enviar su nombre completo, sede, carrera que dicta y el curso en mención."
+    },
+    {
+      "texto": "¿Cuándo se fundó CERTUS?",
+      "respuesta": "Celebramos el 29no aniversario el 24 de agosto del 2024"
+    },
+    {
+      "texto": "¿Desde cuando regirá el nuevo formato de bachiller?",
+      "respuesta": "A partir del 2024"
+    },
+    {
+      "texto": "¿Dónde puedo ver mis notas?",
+      "respuesta": "En el intranet Banner que se encuentra en el portal Estudiantil"
+    },
+    {
+      "texto": "¿Cuáles son los programas académicos que ofrece la institución CERTUS?",
+      "respuesta": "CERTUS te brinda 14 carreras técnicas profesionales de calidad, diseñadas con los más altos estándares en el mundo de la educación moderna en las áreas de Negocios, Finanzas, Tecnología y Creatividad."
+    },
+    {
+      "texto": "¿Cuál es la ubicación de la CERTUS y cómo puedo llegar allí?",
+      "respuesta": "Contamos con 8 sedes, ubicadas en Lima, Arequipa y Chiclayo."
+    },
+    {
+      "texto": "¿Cuál es la matrícula anual y las opciones de pago?",
+      "respuesta": "El monto de las cuotas está en función a la sede, el programa de estudios y el turno elegido. Tomando como referencia estos factores, la pensión mínima es S/ 340 y la máxima S/ 499."
+    },
+    {
+      "texto": "¿Cuáles son los requisitos de admisión para mi programa de interés?",
+      "respuesta": "1. Debes estar al día con tus pagos. Asegúrate de no tener ninguna deuda.\n2. Realizar el primer pago (matrícula + Cuota 1).\n3. Tener a la mano la malla de tu carrera.\n4. Conocer tu turno de matrícula, que podrás visualizar en tu campus digital."
+    },
+    {
+      "texto": "¿Cuáles son las fechas importantes del calendario académico?",
+      "respuesta": "Las fechas importantes del calendario académico son las fechas de evaluación, cada 4 semanas desde el inicio de clases."
+    },
+    {
+      "texto": "¿Qué servicios de apoyo académico están disponibles para los estudiantes?",
+      "respuesta": "Los servicios de apoyo académico que cuenta el instituto CERTUS son los siguientes:\n• Dr. CV\n• Psicología\n• Atención al estudiante\n• Y muchos más."
+    },
+    {
+      "texto": "¿Cuáles son las instalaciones disponibles para el uso de los estudiantes?",
+      "respuesta": "La Certus App para todos, ahora podrás estar informado de las noticias y novedades de Certus. Si ya estudias en Certus podrás referir a tus amigos y obtener beneficios."
+    },
+    {
+      "texto": "¿Cuáles son las oportunidades de investigación o pasantías para los estudiantes?",
+      "respuesta": "Uno de los objetivos más importantes de Certus es facilitar la vinculación de nuestros estudiantes y egresados con el mercado laboral. Nos comprometemos en tu desarrollo profesional para que cumplas tus metas laborales. Te asesoramos en la búsqueda de oportunidades de trabajo a través de convenios con más de 100 empresas a nivel nacional."
+    },
+    {
+      "texto": "¿Cuál es la relación estudiante-profesor?",
+      "respuesta": "[Información no proporcionada]"
+    },
+    {
+      "texto": "¿Cuál es la política de becas y ayuda financiera?",
+      "respuesta": "Certus otorga un cuarto de beca (25%) para el siguiente periodo académico; al estudiante que haya obtenido un alto puntaje, ubicándose dentro del 2% de la población estudiantil con mayor promedio ponderado según sede de matrícula, carrera y ciclo."
+    },
+    {
+      "texto": "¿Cuál es la tasa de empleo de los graduados de la institución?",
+      "respuesta": "CERTUS: Según el Informe de Empleabilidad - IM iEduca 2021, del total de sus egresados que trabajan, 9 de cada 10 lo hacen en importantes empresas y más de la mitad son captados por las más grandes organizaciones del país."
+    },
+    {
+      "texto": "¿La institución ofrece oportunidades de estudio en el extranjero?",
+      "respuesta": "Ofrece oportunidad de intercambio con la universidad UNIMINUTO en Colombia."
+    },
+    {
+      "texto": "¿Hay clubes o actividades extracurriculares en las que puedo participar?",
+      "respuesta": "Con nuestro aplicativo Programa Te Acompaño, puedes conocer todas las actividades extracurriculares."
+    },
+    {
+      "texto": "¿Cuáles son las opciones de vivienda para estudiantes?",
+      "respuesta": "[Información no proporcionada]"
+    },
+    {
+      "texto": "¿Cómo se manejan las cuestiones de seguridad en el campus?",
+      "respuesta": "[Información no proporcionada]"
+    },
+    {
+      "texto": "¿Cuál es el tiempo promedio de las carreras?",
+      "respuesta": "En Certus, además de las carreras profesionales que tienen una duración de tres años, también te ofrecemos cursos cortos que te capacitan para desempeñarte en el campo profesional en un periodo de solo tres, cuatro o seis meses, dependiendo del curso que elijas."
+    },
+    {
+      "texto": "¿Qué recursos hay disponibles en la biblioteca?",
+      "respuesta": "Nuestra Biblioteca Digital cuenta con las plataformas de contenido académico más reconocidas a nivel mundial:\n• EBSCO eBooks: Ponemos a tu disposición más de 220 libros digitales sobre negocios, emprendimiento, innovación, creatividad, contabilidad, finanzas, tecnología y mucho más.\n• Flipster: Revistas digitales especializadas en sistemas, tecnología, creatividad, diseño y publicidad.\n• EBSCOhost: Encontrarás más de 1 millón de artículos de investigación, estudios de Harvard Business Review y una amplia videoteca sobre negocios, innovación, emprendimiento, administración, contabilidad, marketing, etc."
+    },
+    {
+      "texto": "¿La institución tiene acuerdos de colaboración con empresas o industrias?",
+      "respuesta": "Certus cuenta con convenios de empleabilidad con las siguientes empresas:\n• Promart\n• Banco de comercio\n• Efe\n• Interbank\n• Entre otras."
+    },
+    {
+      "texto": "¿Cuáles son los valores y la misión de la institución?",
+      "respuesta": "Misión: Tenemos la MISIÓN de formar personas de excelencia que logren sus proyectos de vida.\nVisión: Nuestra VISIÓN es ser la comunidad educativa reconocida por la calidad de sus egresados gracias a un modelo académico de vanguardia."
+    },
+    {
+      "texto": "¿Cómo puedo ponerme en contacto con asesores académicos y de carrera?",
+      "respuesta": "Nuestros canales de atención son:\n(01) 20 20 900\ninformes@certus.edu.pe"
+    },
+    {
+      "texto": "¿Cómo te llamas?",
+      "respuesta": "Soy un bot de Certus"
+    },
+    {
+      "texto": "¿Quién fundó CERTUS?",
+      "respuesta": "El CEO es Douglas Franco"
+    },
+    {
+      "texto": "Quien eres?",
+      "respuesta": "Soy un bot de Certus"
+    },
+    {
+      "texto": "quien eres?",
+      "respuesta": "Soy un bot de Certus"
+    },
+    {
+      "texto": "Hola",
+      "respuesta": "Hola"
+    },
+    {
+      "texto": "Puedes enseñarme a cocinar?",
+      "respuesta": "No te puedo enseñar, por que no se cocinar."
+    },
+    {
+      "texto": "Estas bien asi como estas?",
+      "respuesta": "Si estoy bien asi."
+    },
+    {
+      "texto": "Quieres salir a boxear y correr?",
+      "respuesta": "No se boxear."
+    },
+    {
+      "texto": "QUisiera salir contigo?",
+      "respuesta": "No"
+    },
+    {
+      "texto": "",
+      "respuesta": ""
+    },
+    {
+      "texto": "como estas",
+      "respuesta": "Estoy bien. Espero que tú también!"
+    },
+    {
+      "texto": "Que es certus",
+      "respuesta": "Un instituto"
+    },
+    {
+      "texto": "sabes?",
+      "respuesta": "no"
+    },
+    {
+      "texto": "y si?",
+      "respuesta": "si"
+    }
+  ]
+}

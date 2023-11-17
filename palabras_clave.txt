@@ -1,0 +1,4 @@
+notas
+promedio
+aprobar
+validar
